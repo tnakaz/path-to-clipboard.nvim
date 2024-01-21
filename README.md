@@ -18,7 +18,7 @@ Using vim-plug
 Add the following line to your init.vim file:
 
 ```lua
-Plug 'takuya-nakazawa/path-to-clipboard'
+Plug 'tnakaz/path-to-clipboard'
 ```
 And then run :PlugInstall.
 
@@ -26,7 +26,7 @@ Using dein.vim
 Add the following line to your init.vim file:
 
 ```lua
-call dein#add('takuya-nakazawa/path-to-clipboard')
+call dein#add('tnakaz/path-to-clipboard')
 ```
 And then run :call dein#install().
 
@@ -34,7 +34,7 @@ Using Vundle
 Add the following line to your init.vim file:
 
 ```lua
-Plugin 'takuya-nakazawa/path-to-clipboard'
+Plugin 'tnakaz/path-to-clipboard'
 ```
 And then run :PluginInstall.
 
